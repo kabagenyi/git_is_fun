@@ -39,7 +39,7 @@ This space is now for serious business.
 
 - If you follow this link [Link](https://www.ncbi.nlm.nih.gov/pmc/?term=Joyce+kabagenyi) you'll see my medically useful side.
 
-* Oh also these days I'm into programing. 
+* Oh also these days I'm into programming. 
 
 Here is some python code just for fun.
 
