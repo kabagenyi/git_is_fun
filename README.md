@@ -33,7 +33,25 @@ Not in order:
 
 This space is now for serious business. 
 
+---
 
+### Girl At Work
 
-Girl At Work
+If you follow this link [Link](https://www.ncbi.nlm.nih.gov/pmc/?term=Joyce+kabagenyi) you'll see my medically useful side.
 
+Oh also these days I'm into programing. 
+
+Here is some python code just for fun.
+
+```python
+if dnacheck(dna):
+        dna_len= len(dna)
+        gs = dna.count('G')
+        cs = dna.count('C')
+        
+        return (gs+cs)/dna_len*100
+```
+
+Alright.
+
+That's it. BYE :)
