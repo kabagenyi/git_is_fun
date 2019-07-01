@@ -54,4 +54,4 @@ if dnacheck(dna):
 
 Alright.
 
-That's it. BYE :)
+That's it. See you next time. BYE :)
